@@ -24,9 +24,20 @@ background-image: url(../images/webowe-pogawedki/Intro.png)
 <img class="float-left" src="../images/1/deno-warsaw/deno-poland.png" style="width: 500px">
 <img class="float-left" src="../images/1/deno-warsaw/deno-warsaw.png" style="width: 500px">
 
+<div class="clear"></div>
+<br/><i>2020-04-06</i>
+
 ---
 
-## Jak usunąć właściwość w obiekcie?
+# _WarsawJS Workshop #43_
+
+<img src="../images/1/warsawjs/Promo.png" style="width: 600px">
+
+Źródło: <https://www.facebook.com/events/1451686585009422/>
+
+---
+
+## .bold[Jak usunąć właściwość w obiekcie?]
 
 .size25[
 
@@ -35,15 +46,16 @@ const car = {
     price: '300',
     color: 'purple'
 };
+```
+
+```js
+// Delete Operator
 delete car.price;
 console.log(car); // {color: "purple"}
 ```
 
-]
-
-.size25[
-
 ```js
+// Destructuring Assignment
 const { price, ...carWithoutPrice } = car;
 console.log(carWithoutPrice); // {color: "purple"}
 ```

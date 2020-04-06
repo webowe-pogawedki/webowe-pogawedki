@@ -7,6 +7,10 @@
     background-image: url('../../../images/webowe-pogawedki/Plain.png');
 }
 
+.remark-slide-content img {
+    box-shadow: 0 0 20px #000
+}
+
 .remark-slide-content a {
     color: white;
     border-bottom: 3px solid var(--webowy-pogawedki-yellow);
