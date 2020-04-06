@@ -7,10 +7,6 @@
     background-image: url('../../../images/webowe-pogawedki/Plain.png');
 }
 
-.remark-slide-container:nth-of-type(n + 2) .remark-slide-content:after {
-    background-image: url('../../../images/piecioshka/logo-piecioshka-white-text.svg');
-}
-
 .remark-slide-content a {
     color: white;
     border-bottom: 3px solid var(--webowy-pogawedki-yellow);

@@ -1,10 +1,6 @@
-# webowe-pogawedki
+# Webowe pogawędki
 
-:clipboard: Slides for TODO
-
-## Preview
-
-<https://piecioshka.github.io/webowe-pogawedki>
+* #1 — <https://piecioshka.github.io/webowe-pogawedki/1/> — 2020-04-07
 
 ## License
 

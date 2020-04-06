@@ -1,5 +1,5 @@
 class: slide-fullscreen-content
-background-image: url(images/webowe-pogawedki/Intro.png)
+background-image: url(../images/webowe-pogawedki/Intro.png)
 
 ---
 
@@ -21,8 +21,8 @@ background-image: url(images/webowe-pogawedki/Intro.png)
 
 # <del>Deno Community <span class="slim">umiera!</span></del>
 
-<img class="float-left" src="images/1/deno-warsaw/deno-poland.png" style="width: 500px">
-<img class="float-left" src="images/1/deno-warsaw/deno-warsaw.png" style="width: 500px">
+<img class="float-left" src="../images/1/deno-warsaw/deno-poland.png" style="width: 500px">
+<img class="float-left" src="../images/1/deno-warsaw/deno-warsaw.png" style="width: 500px">
 
 ---
 
@@ -68,11 +68,11 @@ console.log(carWithoutPrice); // {color: "purple"}
 
 Jak można się pomylić:
 
-<img src="images/1/tweet-jake.jpeg">
+<img src="../images/1/tweet-jake.jpeg">
 
 Źródło: <https://twitter.com/jaffathecake/status/1243219575845597184>
 
 ---
 
 class: slide-fullscreen-content
-background-image: url(images/webowe-pogawedki/Outro.png)
+background-image: url(../images/webowe-pogawedki/Outro.png)
