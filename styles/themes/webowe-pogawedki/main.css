@@ -1,0 +1,23 @@
+:root {
+    --webowy-pogawedki-yellow: #FBD72B;
+    --webowy-pogawedki-purple: #BF04F5;
+}
+
+.remark-slide-content {
+    background-image: url('../../../images/webowe-pogawedki/Plain.png');
+}
+
+.remark-slide-container:nth-of-type(n + 2) .remark-slide-content:after {
+    background-image: url('../../../images/piecioshka/logo-piecioshka-white-text.svg');
+}
+
+.remark-slide-content a {
+    color: white;
+    border-bottom: 3px solid var(--webowy-pogawedki-yellow);
+}
+
+.remark-slide-content a:hover {
+    text-decoration: none;
+    color: var(--webowy-pogawedki-yellow);
+    border-bottom-style: dotted;
+}
