@@ -11,11 +11,27 @@ background-image: url(../images/webowe-pogawedki/Intro.png)
 
 ---
 
+# Finalna lista nowych rzeczy w <span class="slim">ES2020</span>
+
+<div style="height: 300px"></div>
+
+<https://2ality.com/2019/12/ecmascript-2020.html>
+
+---
+
 # Narzędzie do testów
 
 <div style="height: 300px"></div>
 
 <https://webhook.site>
+
+---
+
+# Darmowe kursy z powodu #lockdown
+
+<div style="height: 300px"></div>
+<https://fullstackopen.com/en>
+<https://www.pluralsight.com/offer/2020/free-april-month>
 
 ---
 
@@ -26,6 +42,13 @@ background-image: url(../images/webowe-pogawedki/Intro.png)
 
 <div class="clear"></div>
 <br/><i>2020-04-06</i>
+
+---
+
+# Nowa wersja Expo
+
+<div style="height: 300px"></div>
+<https://blog.expo.io/expo-sdk-37-is-now-available-dd5770f066a6>
 
 ---
 
