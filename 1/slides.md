@@ -13,7 +13,7 @@ background-image: url(../images/webowe-pogawedki/Intro.png)
 
 # Finalna lista nowych rzeczy w <span class="slim">ES2020</span>
 
-<div style="height: 300px"></div>
+<div style="height: 250px"></div>
 
 <https://2ality.com/2019/12/ecmascript-2020.html>
 
@@ -23,15 +23,17 @@ background-image: url(../images/webowe-pogawedki/Intro.png)
 
 <div style="height: 300px"></div>
 
-<https://webhook.site>
+* <https://webhook.site>
+* <https://twitter.com/MichalZalecki/status/1247119937317068800>
 
 ---
 
 # Darmowe kursy z powodu #lockdown
 
-<div style="height: 300px"></div>
-<https://fullstackopen.com/en>
-<https://www.pluralsight.com/offer/2020/free-april-month>
+<div style="height: 220px"></div>
+
+* <https://fullstackopen.com/en>
+* <https://www.pluralsight.com/offer/2020/free-april-month>
 
 ---
 
@@ -78,7 +80,7 @@ console.log(car); // {color: "purple"}
 ```
 
 ```js
-// Destructuring Assignment
+// Destructuring Assignment + Spread Operator
 const { price, ...carWithoutPrice } = car;
 console.log(carWithoutPrice); // {color: "purple"}
 ```
@@ -89,7 +91,7 @@ console.log(carWithoutPrice); // {color: "purple"}
 
 ---
 
-# Dyskusja
+# Dyskusja 🎙
 
 <div style="height: 250px"></div>
 
