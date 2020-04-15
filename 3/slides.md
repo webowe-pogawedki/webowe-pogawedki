@@ -15,6 +15,13 @@ background-image: url(../images/3/Intro.png)
 
 ---
 
+# Tool 🛠 Jest<br/>Uruchamianie testów kolejno
+
+* <https://github.com/gabrieli/jest-serial-runner>
+* Demo: <https://github.com/piecioshka/workshop-javascript-online-store>
+
+---
+
 # Tool 🛠 `source-map-visualization`
 
 <http://sokra.github.io/source-map-visualization/>
