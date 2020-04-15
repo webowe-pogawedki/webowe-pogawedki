@@ -3,15 +3,24 @@ background-image: url(../images/2/Intro.png)
 
 ---
 
-# Github staje się darmowy
+# GitHub staje się darmowy
 
-<div style="height: 300px"></div>
+<img src="../images/2/github.svg" style="width: 300px" />
 
 <https://github.blog/2020-04-14-github-is-now-free-for-teams/>
 
 ---
 
-# Drzewko skilli front-end'a
+# Tool 🛠 `git-fame`
+
+<div style="height: 250px"></div>
+
+* <https://github.com/casperdcl/git-fame>
+* <https://github.com/tqdm/tqdm>
+
+---
+
+# Drzewko skilli front-enda
 
 <div style="height: 300px"></div>
 
@@ -19,26 +28,76 @@ background-image: url(../images/2/Intro.png)
 
 ---
 
-# Unikajcie default exports!
+# Tips 💡 Unikajcie `default exports`
 
-<div style="height: 300px"></div>
+<div style="height: 200px"></div>
 
 <https://mintel.me/why-i-abandoned-default-exports/>
 
 ---
+
+# Tips 💡 _TypeScript_<br/>Typ rekurencyjny
+
+.size30[
+
+```ts
+type Data =
+    | number
+    | string
+    | null
+    | { [prop: string]: Data }
+    | Data[];
+```
+
+]
+
+<https://www.typescriptlang.org/play/>
+
+---
+
+# Leksykon Programisty
+
+<div style="height: 300px"></div>
+
+<https://leksykonprogramisty.pl/>
+
+---
+
+# Tool 🛠 DevTools `queryObjects()`
+
+<div style="height: 200px"></div>
+
+<https://twitter.com/addyosmani/status/1250340585170329605>
+
+---
+
 # Dyskusja 🎙
 
-<div style="height: 250px"></div>
+<div style="position: absolute; right: 40px; top: 80px;">
+    <img src="https://i.redd.it/00z5qwx3udo41.jpg" style="width: 600px" />
+</div>
 
-* Jakie używacie jednostki w CSS?
-* Jak ogarniacie style? Styled-components? Bootstrap?
-<img src="https://i.redd.it/00z5qwx3udo41.jpg" />
+<div style="height: 200px"></div>
+
+<div class="size40" style="color: white">
+    <ul>
+        <li>Jakie używacie jednostki w CSS?</li>
+        <li>Jak ogarniacie style? Styled-components? Bootstrap?</li>
+    </ul>
+</div>
 
 ---
 
 # Make my day 😂
 
-Simpsonowie w CSS
+<div style="position: absolute; right: 30px; top: 140px;">
+    <img src="../images/2/simpson.jpg" style="width: 600px">
+</div>
+
+<div style="height: 300px"></div>
+
+<h2><mark>Simpsonowie w CSS</mark></h2>
+
 Źródło: <https://pattle.github.io/simpsons-in-css/>
 
 ---
