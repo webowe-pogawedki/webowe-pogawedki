@@ -1,5 +1,5 @@
 class: slide-fullscreen-content
-background-image: url(../images/1/Intro.png)
+background-image: url(../images/general/Intro-1.png)
 
 ---
 
@@ -112,4 +112,4 @@ Jak można się pomylić:
 ---
 
 class: slide-fullscreen-content
-background-image: url(../images/general/Outro.png)
+background-image: url(../images/general/Thanks.png)

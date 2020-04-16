@@ -1,5 +1,5 @@
 class: slide-fullscreen-content
-background-image: url(../images/3/Intro.png)
+background-image: url(../images/general/Intro-3.png)
 
 ---
 
@@ -15,7 +15,9 @@ background-image: url(../images/3/Intro.png)
 
 ---
 
-# Tool 🛠 Jest<br/>Uruchamianie testów kolejno
+# Tool 🛠 Jest<br/>Szeregowe testy?
+
+<div style="height: 200px"></div>
 
 * <https://github.com/gabrieli/jest-serial-runner>
 * Demo: <https://github.com/piecioshka/workshop-javascript-online-store>
@@ -24,7 +26,9 @@ background-image: url(../images/3/Intro.png)
 
 # Tool 🛠 `source-map-visualization`
 
-<http://sokra.github.io/source-map-visualization/>
+<div style="height: 150px"></div>
+
+* <http://sokra.github.io/source-map-visualization/>
 
 ---
 
@@ -33,6 +37,8 @@ background-image: url(../images/3/Intro.png)
 ---
 
 # Tips 💡 Instalacja fontów via Homebrew
+
+<div style="height: 200px"></div>
 
 <https://github.com/Homebrew/homebrew-cask-fonts>
 
@@ -47,4 +53,4 @@ background-image: url(../images/3/Intro.png)
 ---
 
 class: slide-fullscreen-content
-background-image: url(../images/general/Outro.png)
+background-image: url(../images/general/Thanks.png)

@@ -1,5 +1,5 @@
 class: slide-fullscreen-content
-background-image: url(../images/2/Intro.png)
+background-image: url(../images/general/Intro-2.png)
 
 ---
 
@@ -104,4 +104,4 @@ type Data =
 ---
 
 class: slide-fullscreen-content
-background-image: url(../images/general/Outro.png)
+background-image: url(../images/general/Thanks.png)
