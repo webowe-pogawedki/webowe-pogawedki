@@ -51,7 +51,8 @@ type Data =
 
 ]
 
-<https://www.typescriptlang.org/play/>
+* <https://www.typescriptlang.org/play/>
+* <https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html>
 
 ---
 
