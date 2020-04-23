@@ -11,7 +11,11 @@ background-image: url(../images/general/Intro-3.png)
 
 ---
 
-# Tool 🛠
+# Przyrostowe buildy w Gatsby 🎉
+
+<div style="height: 300px"></div>
+
+<https://www.gatsbyjs.org/blog/2020-04-22-announcing-incremental-builds/>
 
 ---
 
@@ -32,7 +36,10 @@ background-image: url(../images/general/Intro-3.png)
 
 ---
 
-# Tips 💡
+# Tips 💡Zmień relative paths na aliasy!
+
+* <https://www.robinwieruch.de/babel-module-resolver>
+* <https://www.facebook.com/piecioshka.trener/posts/657961471293988>
 
 ---
 
@@ -45,10 +52,17 @@ background-image: url(../images/general/Intro-3.png)
 ---
 
 # Dyskusja 🎙
+* AHA programming (Avoid Hasty Abstractions)
+* duplication is far cheaper than the wrong abstraction
+* prefer duplication over the wrong abstraction
+* <https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction>
+* <https://kentcdodds.com/blog/aha-programming>
 
 ---
 
 # Make my day 😂
+* Fota z kosmosu w dniu Twoich urodzin (dzień + miesiąc)
+* <https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday>
 
 ---
 
