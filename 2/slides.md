@@ -80,12 +80,12 @@ type Data =
 
 <div style="height: 200px"></div>
 
-<div class="size40" style="color: white">
-    <ul>
-        <li>Jakie używacie jednostki w CSS?</li>
-        <li>Jak ogarniacie style? Styled-components? Bootstrap?</li>
-    </ul>
-</div>
+.size40.color-white[
+
+* Jakie używacie jednostki w CSS?
+* Jak ogarniacie style? Styled-components? Bootstrap?
+
+]
 
 ---
 

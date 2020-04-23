@@ -43,7 +43,7 @@ background-image: url(../images/general/Intro-1.png)
 <img class="float-left" src="../images/1/deno-warsaw/deno-warsaw.png" style="width: 500px">
 
 <div class="clear"></div>
-<br/><i>2020-04-06</i>
+<br/>2020-04-06
 
 ---
 
