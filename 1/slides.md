@@ -1,5 +1,7 @@
-class: slide-fullscreen-content
-background-image: url(../images/general/Intro-1.png)
+class: slide-fullscreen-content, slide-ruda
+background-image: url(../images/general/Primary.png)
+
+# Webowe Pogawędki #1
 
 ---
 
@@ -39,8 +41,8 @@ background-image: url(../images/general/Intro-1.png)
 
 # <del>Deno Community <span class="slim">umiera!</span></del>
 
-<img class="float-left" src="../images/1/deno-warsaw/deno-poland.png" style="width: 500px">
-<img class="float-left" src="../images/1/deno-warsaw/deno-warsaw.png" style="width: 500px">
+<img class="float-left" src="images/deno-warsaw/deno-poland.png" style="width: 500px">
+<img class="float-left" src="images/deno-warsaw/deno-warsaw.png" style="width: 500px">
 
 <div class="clear"></div>
 <br/>2020-04-06
@@ -56,7 +58,7 @@ background-image: url(../images/general/Intro-1.png)
 
 # _WarsawJS Workshop #43_
 
-<img src="../images/1/warsawjs/Promo.png" style="width: 600px">
+<img src="images/warsawjs/Promo.png" style="width: 600px">
 
 Źródło: <https://www.facebook.com/events/1451686585009422/>
 
@@ -105,11 +107,13 @@ console.log(carWithoutPrice); // {color: "purple"}
 
 Jak można się pomylić:
 
-<img src="../images/1/tweet-jake.jpeg">
+<img src="images/tweet-jake.jpeg">
 
 Źródło: <https://twitter.com/jaffathecake/status/1243219575845597184>
 
 ---
 
-class: slide-fullscreen-content
-background-image: url(../images/general/Thanks.png)
+class: slide-fullscreen-content, slide-ruda
+background-image: url(../images/general/Primary.png)
+
+# Thanks

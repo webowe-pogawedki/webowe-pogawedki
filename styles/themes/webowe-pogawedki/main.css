@@ -21,3 +21,11 @@
     color: var(--webowy-pogawedki-yellow);
     border-bottom-style: dotted;
 }
+
+.slide-ruda h1 {
+    text-align: center;
+    font-family: Ruda, sans-serif;
+    font-size: 106px !important;
+    font-weight: normal;
+    margin: 508px 0 0 0;;
+}

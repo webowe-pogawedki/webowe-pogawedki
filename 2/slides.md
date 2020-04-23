@@ -1,11 +1,13 @@
-class: slide-fullscreen-content
-background-image: url(../images/general/Intro-2.png)
+class: slide-fullscreen-content, slide-ruda
+background-image: url(../images/general/Primary.png)
+
+# Webowe Pogawędki #2
 
 ---
 
 # GitHub staje się darmowy
 
-<img src="../images/2/github.svg" style="width: 300px" />
+<img src="images/github.svg" style="width: 300px" />
 
 <https://github.blog/2020-04-14-github-is-now-free-for-teams/>
 
@@ -92,7 +94,7 @@ type Data =
 # Make my day 😂
 
 <div style="position: absolute; right: 30px; top: 140px;">
-    <img src="../images/2/simpson.jpg" style="width: 600px">
+    <img src="images/simpson.jpg" style="width: 600px">
 </div>
 
 <div style="height: 300px"></div>
@@ -103,5 +105,7 @@ type Data =
 
 ---
 
-class: slide-fullscreen-content
-background-image: url(../images/general/Thanks.png)
+class: slide-fullscreen-content, slide-ruda
+background-image: url(../images/general/Primary.png)
+
+# Thanks

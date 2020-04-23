@@ -1,5 +1,7 @@
-class: slide-fullscreen-content
-background-image: url(../images/general/Intro-3.png)
+class: slide-fullscreen-content, slide-ruda
+background-image: url(../images/general/Primary.png)
+
+# Webowe Pogawędki #3
 
 ---
 
@@ -73,5 +75,7 @@ background-image: url(../images/general/Intro-3.png)
 
 ---
 
-class: slide-fullscreen-content
-background-image: url(../images/general/Thanks.png)
+class: slide-fullscreen-content, slide-ruda
+background-image: url(../images/general/Primary.png)
+
+# Thanks
