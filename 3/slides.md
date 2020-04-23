@@ -54,7 +54,6 @@ background-image: url(../images/general/Intro-3.png)
 # Dyskusja 🎙
 * AHA programming (Avoid Hasty Abstractions)
 * duplication is far cheaper than the wrong abstraction
-* prefer duplication over the wrong abstraction
 * <https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction>
 * <https://kentcdodds.com/blog/aha-programming>
 
