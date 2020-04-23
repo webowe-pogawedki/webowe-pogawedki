@@ -9,9 +9,13 @@
         "email": "piecioshka@gmail.com",
         "url": "https://piecioshka.pl/"
     },
-    "scripts": {},
+    "scripts": {
+        "test": "markdownlint . --ignore node_modules"
+    },
     "dependencies": {},
-    "devDependencies": {},
+    "devDependencies": {
+        "markdownlint-cli": "^0.22.0"
+    },
     "repository": {
         "type": "git",
         "url": "git@github.com:piecioshka/webowe-pogawedki.git"
