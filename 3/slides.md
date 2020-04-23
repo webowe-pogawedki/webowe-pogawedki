@@ -15,7 +15,7 @@ background-image: url(../images/general/Primary.png)
 
 # Przyrostowe buildy w Gatsby 🎉
 
-<div style="height: 250px"></div>
+<div style="height: 300px"></div>
 
 <https://www.gatsbyjs.org/blog/2020-04-22-announcing-incremental-builds/>
 
@@ -56,6 +56,11 @@ background-image: url(../images/general/Primary.png)
 ---
 
 # Dyskusja 🎙
+* AHA programming (Avoid Hasty Abstractions)
+* duplication is far cheaper than the wrong abstraction
+* prefer duplication over the wrong abstraction
+* <https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction>
+* <https://kentcdodds.com/blog/aha-programming>
 
 <div style="height: 200px"></div>
 
@@ -67,6 +72,8 @@ background-image: url(../images/general/Primary.png)
 ---
 
 # Make my day 😂
+* Fota z kosmosu w dniu Twoich urodzin (dzień + miesiąc)
+* <https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday>
 
 <div style="height: 200px"></div>
 
