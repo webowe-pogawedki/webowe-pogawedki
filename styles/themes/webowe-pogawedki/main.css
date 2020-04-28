@@ -4,7 +4,11 @@
 }
 
 .remark-slide-content {
-    background-image: url('../../../images/general/Plain.png');
+    background-image: url('../../../images/general/Plain-Horizontal.png');
+}
+
+.remark-slide-content.vertical {
+    background-image: url('../../../images/general/Plain-Vertical.png');
 }
 
 .remark-slide-content img {
