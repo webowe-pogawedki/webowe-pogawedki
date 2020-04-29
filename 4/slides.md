@@ -5,7 +5,10 @@ background-image: url(../images/general/Primary.png)
 
 ---
 
-# Node.js w wersji 14
+background-image: url(./images/nodejs-wallpaper-1_0.png)
+background-size: contain
+
+# .color-white[Node.js w wersji 14] 🔥
 
 <div style="height: 300px"></div>
 
@@ -14,7 +17,7 @@ background-image: url(../images/general/Primary.png)
 
 ---
 
-# Google Meet za darmo!
+# Google Meet za darmo! 🔥
 
 <div style="height: 150px"></div>
 
@@ -31,17 +34,19 @@ background-image: url(../images/general/Primary.png)
 
 ---
 
-# Ubuntu 20.04 LTS
+background-image: url(./images/ubuntu-wallpapers-18.png)
 
-<div style="height: 250px"></div>
+# .color-white[Ubuntu 20.04 LTS] 🔥
+
+<div style="height: 300px"></div>
 
 * <https://wiki.ubuntu.com/FocalFossa/ReleaseNotes>
 
 ---
 
-# Tool 🛠 Will it CORS?
+# Tool 🛠 Will it .slim[CORS]?
 
-<div style="height: 150px"></div>
+<div style="height: 200px"></div>
 
 <https://httptoolkit.tech/will-it-cors/>
 
@@ -64,15 +69,19 @@ jase author.name -f package.json
 
 ---
 
-# Tips 💡 CSS font check
+background-image: url(./images/11-Background-CSS-Pattern-Generators.jpg)
 
-<div style="height: 250px"></div>
+# Tips 💡
+
+# _CSS font check_
+
+<div style="height: 200px"></div>
 
 <https://twitter.com/argyleink/status/1223026734817087488>
 
 ---
 
-# Tips 💡 HTML DOM in Vanilla.js
+# Tips 💡 DOM in Vanilla.js
 
 <div style="height: 250px"></div>
 
@@ -80,7 +89,7 @@ jase author.name -f package.json
 
 ---
 
-# Dyskusja
+# Let's talk! 🗣
 
 <div style="height: 250px"></div>
 
@@ -89,7 +98,9 @@ jase author.name -f package.json
 
 ---
 
-# Make my day 😂
+background-image: url(../images/general/Plain-Vertical.png)
+
+# .color-white[Make my day] 😂
 
 <img src="images/problemy-branzy-it.jpg" style="width: 450px" />
 
