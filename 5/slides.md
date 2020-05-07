@@ -22,6 +22,14 @@ background-image: url(../images/general/Primary.png)
 
 ---
 
+# Tool 🛠 Github CLI 🔥
+
+<div style="height: 200px"></div>
+
+<https://github.com/cli/cli>
+
+---
+
 # Tips 💡 Fajne one-linery JS w jednym miejscu
 
 <div style="height: 200px"></div>
