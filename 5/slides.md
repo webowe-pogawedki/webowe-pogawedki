@@ -5,12 +5,20 @@ background-image: url(../images/general/Primary.png)
 
 ---
 
-# Firefox 76 🔥
+# Firefox 76
 
 <div style="height: 300px"></div>
 
 * <https://www.mozilla.org/en-US/firefox/76.0/releasenotes/?v=b>
 
+---
+
+# Github rozbija bank 🔥
+
+<div style="height: 200px"></div>
+
+<https://github.com/cli/cli>
+<https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/>
 ---
 
 # Tool 🛠 Web Vitals
@@ -19,22 +27,6 @@ background-image: url(../images/general/Primary.png)
 
 <https://github.com/GoogleChrome/web-vitals/>
 <https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html>
-
----
-
-# Tool 🛠 Github CLI 🔥
-
-<div style="height: 200px"></div>
-
-<https://github.com/cli/cli>
-
----
-
-# Tool 🛠 Github CLI 🔥
-
-<div style="height: 200px"></div>
-
-<https://github.com/cli/cli>
 
 ---
 
