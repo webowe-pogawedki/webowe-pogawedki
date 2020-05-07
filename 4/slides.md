@@ -46,9 +46,9 @@ background-image: url(./images/ubuntu-wallpapers-18.png)
 
 # Tool 🛠 Will it .slim[CORS]?
 
-<div style="height: 200px"></div>
+<div style="height: 250px"></div>
 
-<https://httptoolkit.tech/will-it-cors/>
+* <https://httptoolkit.tech/will-it-cors/>
 
 ---
 
@@ -85,7 +85,7 @@ background-image: url(./images/11-Background-CSS-Pattern-Generators.jpg)
 
 <div style="height: 250px"></div>
 
-<https://htmldom.dev/>
+* <https://htmldom.dev/>
 
 ---
 

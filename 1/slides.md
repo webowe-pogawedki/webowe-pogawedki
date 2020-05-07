@@ -64,7 +64,7 @@ background-image: url(../images/general/Primary.png)
 
 ---
 
-## .bold[Jak usunąć właściwość w obiekcie?]
+# .size50[Tips 💡 Jak usunąć właściwość w obiekcie?]
 
 .size25[
 
@@ -102,6 +102,9 @@ console.log(carWithoutPrice); // {color: "purple"}
     + <https://github.com/piecioshka/test-prettier>
 
 ---
+
+class: color-white
+background-image: url(../images/general/Plain-Vertical.png)
 
 # Make my day 😂
 

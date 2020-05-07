@@ -5,10 +5,15 @@
 
 .remark-slide-content {
     background-image: url('../../../images/general/Plain-Horizontal.png');
+    padding: 1em 2em;
 }
 
 .remark-slide-content.vertical {
     background-image: url('../../../images/general/Plain-Vertical.png');
+}
+
+.remark-slide-content h1 {
+    margin-bottom: 0;
 }
 
 .remark-slide-content img {
@@ -24,6 +29,16 @@
     text-decoration: none;
     color: var(--webowy-pogawedki-yellow);
     border-bottom-style: dotted;
+}
+
+.remark-slide-content code {
+    color: white;
+    text-shadow: 4px 4px 0 #000;
+    background-color: var(--webowy-pogawedki-purple);
+}
+
+.remark-slide-content pre code {
+    text-shadow: none;
 }
 
 .slide-ruda h1 {

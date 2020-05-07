@@ -30,15 +30,15 @@ background-image: url(../images/general/Primary.png)
 
 ---
 
-# Tips 💡 Unikajcie `default exports`
+# .size60[Tips 💡 Unikajcie `default exports`]
 
-<div style="height: 200px"></div>
+<div style="height: 350px"></div>
 
-<https://mintel.me/why-i-abandoned-default-exports/>
+* <https://mintel.me/why-i-abandoned-default-exports/>
 
 ---
 
-# Tips 💡 _TypeScript_<br/>Typ rekurencyjny
+# .size60[Tips 💡 _TypeScript_ Typ rekurencyjny]
 
 .size30[
 
@@ -90,6 +90,9 @@ type Data =
 ]
 
 ---
+
+class: color-white
+background-image: url(../images/general/Plain-Vertical.png)
 
 # Make my day 😂
 
