@@ -99,13 +99,7 @@ let result = items.reduce((acc, item) => ({
 
 <div style="height: 250px"></div>
 
-.color-white[
-
-## Kontrybucje
-
-# .slim[Open Source]
-
-]
+* [#30devstories](http://30devstories.crd.co/)
 
 ---
 
