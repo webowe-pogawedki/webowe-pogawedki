@@ -13,30 +13,50 @@ class: master-center
 
 # ESLint v7.0.0
 
+<div style="height: 250px"></div>
+
 * <https://eslint.org/blog/2020/05/eslint-v7.0.0-released>
 
 ---
 
-# News 2
+# TypeScript v3.9
+
+<div style="height: 250px"></div>
+
+* <https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/>
+
+---
+
+# Deno v1.0
+
+<div style="height: 250px"></div>
+
+* <https://deno.land/v1>
 
 ---
 
 # Szybsze prototypy CSS 🛠
 
+<div style="height: 250px"></div>
+
 * <https://tachyons.io/>
 
 ---
 
-# Tool 🛠 2
-
----
-
 # Zbiór porad Next.js 💡
+
+<div style="height: 250px"></div>
+
 * <https://nextjstips.com/>
 
 ---
 
-# Tips 💡 2
+# Factory Pattern 💡
+
+<div style="height: 300px"></div>
+
+* <https://github.com/piecioshka/patterns-guide/blob/master/demo/factory-method/scripts/main.js#L12>
+* <https://www.facebook.com/events/550742222516496/>
 
 ---
 
@@ -45,6 +65,7 @@ class: master-center
 <div style="height: 250px"></div>
 
 * [Rządowe aplikacje i Open Source](https://informatykzakladowy.pl/znamy-tresc-umowy-na-wykonanie-aplikacji-kwarantanna-domowa-czy-rzad-przeplacil/)
+
 ---
 
 class: color-white
