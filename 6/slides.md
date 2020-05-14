@@ -7,11 +7,13 @@ background-image: url(../images/general/Primary.png)
 
 class: master-center
 
-<video src="./videos/podcast.mp4" controls></video>
+<video src="./videos/podcast.mp4" controls autoplay loop></video>
 
 ---
 
-# News 1
+# ESLint v7.0.0
+
+* <https://eslint.org/blog/2020/05/eslint-v7.0.0-released>
 
 ---
 
@@ -19,7 +21,9 @@ class: master-center
 
 ---
 
-# Tool 🛠 1
+# Szybsze prototypy CSS 🛠
+
+* <https://tachyons.io/>
 
 ---
 
@@ -27,7 +31,8 @@ class: master-center
 
 ---
 
-# Tips 💡 1
+# Zbiór porad Next.js 💡
+* <https://nextjstips.com/>
 
 ---
 
@@ -39,6 +44,7 @@ class: master-center
 
 <div style="height: 250px"></div>
 
+* [Rządowe aplikacje i Open Source](https://informatykzakladowy.pl/znamy-tresc-umowy-na-wykonanie-aplikacji-kwarantanna-domowa-czy-rzad-przeplacil/)
 ---
 
 class: color-white
