@@ -25,6 +25,10 @@
     border-bottom: 3px solid var(--webowy-pogawedki-yellow);
 }
 
+.remark-slide-content.slide-invert-colors a {
+    color: var(--webowy-pogawedki-yellow);
+}
+
 .remark-slide-content a:hover {
     text-decoration: none;
     color: var(--webowy-pogawedki-yellow);

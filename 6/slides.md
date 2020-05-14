@@ -35,6 +35,14 @@ class: master-center
 
 ---
 
+# Grupy tabów w Chrome
+
+<div style="height: 300px"></div>
+
+* <https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/>
+
+---
+
 # Szybsze prototypy CSS 🛠
 
 <div style="height: 250px"></div>
@@ -81,3 +89,21 @@ class: slide-fullscreen-content, slide-ruda
 background-image: url(../images/general/Primary.png)
 
 # Thanks
+
+---
+
+class: middle, slide-invert-colors
+background-image: none
+
+<img src="images/004-music-note.svg" style="
+    position: absolute;
+    top: 150px;
+    right: 100px;
+    width: 300px;
+">
+
+## `Za szybami noc`
+
+#### Winyla Trzaski feat. Martyna Nosko, DJ Kaczy
+
+<https://www.youtube.com/watch?v=5_ipLg677VA>
