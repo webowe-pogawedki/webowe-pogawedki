@@ -85,13 +85,6 @@ background-image: url(../images/general/Plain-Vertical.png)
 
 ---
 
-class: slide-fullscreen-content, slide-ruda
-background-image: url(../images/general/Primary.png)
-
-# Thanks
-
----
-
 class: middle, slide-invert-colors
 background-image: none
 
@@ -107,3 +100,14 @@ background-image: none
 #### Winyla Trzaski feat. Martyna Nosko, DJ Kaczy
 
 <https://www.youtube.com/watch?v=5_ipLg677VA>
+
+<div style="width: 470px; margin: 50px 0;"><hr/></div>
+
+Wykonawca: <a style="color: #BF04F5; border-color: #BF04F5" href="https://instagram.com/winylatrzaski">instagram.com/winylatrzaski</a>
+
+---
+
+class: slide-fullscreen-content, slide-ruda
+background-image: url(../images/general/Primary.png)
+
+# Thanks

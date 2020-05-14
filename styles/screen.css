@@ -120,6 +120,12 @@ kbd {
     border-radius: 5px;
 }
 
+hr {
+    background-image: linear-gradient(0.25turn, #FBD72B 0%, #BF04F5 100%);
+    border: none;
+    height: 1px;
+}
+
 /* -------------------------------------------------------------------------- */
 
 .remark-slide-content {
