@@ -80,7 +80,7 @@ type Data =
     <img src="https://i.redd.it/00z5qwx3udo41.jpg" style="width: 600px" />
 </div>
 
-<div style="height: 200px"></div>
+<div style="height: 270px"></div>
 
 .size40.color-white[
 

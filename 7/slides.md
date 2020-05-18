@@ -1,7 +1,7 @@
 class: slide-fullscreen-content, slide-ruda
 background-image: url(../images/general/Primary.png)
 
-# Webowe Pogawędki #6
+# Webowe Pogawędki #7
 
 ---
 
@@ -11,60 +11,23 @@ class: master-center
 
 ---
 
-# ESLint v7.0.0
-
-<div style="height: 250px"></div>
-
-* <https://eslint.org/blog/2020/05/eslint-v7.0.0-released>
+# NEWS
 
 ---
 
-# TypeScript v3.9
+# Tool 🛠
 
 <div style="height: 250px"></div>
 
-* <https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/>
+* ...
 
 ---
 
-# Deno v1.0
-
-<div style="height: 250px"></div>
-
-* <https://deno.land/v1>
-
----
-
-# Grupy tabów w Chrome
+# Tip 💡
 
 <div style="height: 300px"></div>
 
-* <https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/>
-
----
-
-# Szybsze prototypy CSS 🛠
-
-<div style="height: 250px"></div>
-
-* <https://tachyons.io/>
-
----
-
-# Zbiór porad Next.js 💡
-
-<div style="height: 250px"></div>
-
-* <https://nextjstips.com/>
-
----
-
-# Factory Pattern 💡
-
-<div style="height: 300px"></div>
-
-* <https://github.com/piecioshka/patterns-guide/blob/master/demo/factory-method/scripts/main.js#L12>
-* <https://www.facebook.com/events/550742222516496/>
+* ...
 
 ---
 
@@ -72,7 +35,7 @@ class: master-center
 
 <div style="height: 250px"></div>
 
-* [Rządowe aplikacje i Open Source](https://informatykzakladowy.pl/znamy-tresc-umowy-na-wykonanie-aplikacji-kwarantanna-domowa-czy-rzad-przeplacil/)
+* ...
 
 ---
 
@@ -81,7 +44,7 @@ background-image: url(../images/general/Plain-Vertical.png)
 
 # Make my day 😂
 
-<img src="images/IMG_9901.jpg" style="width: 400px">
+<img src="images/EXabA7xXgAErBZN.jpeg" style="width: 400px">
 
 ---
 
