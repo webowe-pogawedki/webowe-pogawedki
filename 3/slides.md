@@ -67,14 +67,19 @@ background-image: url(../images/general/Primary.png)
 ---
 
 class: color-white
-background-image: url(../images/general/Plain-Vertical.png)
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # Make my day 😂
 
 <div style="height: 200px"></div>
 
+.wrap.width-60[
+
 * Fota z kosmosu w dniu Twoich urodzin
 * <https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday>
+
+]
 
 ---
 

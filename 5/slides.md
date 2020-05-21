@@ -104,7 +104,8 @@ let result = items.reduce((acc, item) => ({
 ---
 
 class: color-white
-background-image: url(../images/general/Plain-Vertical.png)
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # Make my day 😂
 

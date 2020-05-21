@@ -19,11 +19,11 @@ background-size: contain
 
 # Google Meet za darmo! 🔥
 
-<div style="height: 150px"></div>
+<div style="height: 200px"></div>
 
 .color-white[
 
-* W lutym i marcu platforma obsługiwała _2 miliardy minut połączeń dziennie_.
+* W lutym i marcu platforma obsługiwała<br/>_2 miliardy minut połączeń dziennie_
 * Warunki: Konto Google, Od 1. września — limit 1h
 * Limity: 100 osób, Brak nagrywania
 
@@ -38,7 +38,7 @@ background-image: url(./images/ubuntu-wallpapers-18.png)
 
 # .color-white[Ubuntu 20.04 LTS] 🔥
 
-<div style="height: 300px"></div>
+<div style="height: 350px"></div>
 
 * <https://wiki.ubuntu.com/FocalFossa/ReleaseNotes>
 
@@ -98,13 +98,18 @@ background-image: url(./images/11-Background-CSS-Pattern-Generators.jpg)
 
 ---
 
-background-image: url(../images/general/Plain-Vertical.png)
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # .color-white[Make my day] 😂
 
 <img src="images/problemy-branzy-it.jpg" style="width: 450px" />
 
-<https://www.facebook.com/ConnectisPL/videos/206432160781705/>
+.wrap.width-60[
+
+* <https://www.facebook.com/ConnectisPL/videos/206432160781705/>
+
+]
 
 ---
 

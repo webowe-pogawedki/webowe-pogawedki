@@ -109,35 +109,49 @@ test("renders learn react link", async () => {
 ---
 
 class: color-white
-background-image: url(../images/general/Plain-Vertical.png)
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # Make my day 😂
 
-<img src="images/EXabA7xXgAErBZN.jpeg" style="width: 400px">
+<img src="images/EXabA7xXgAErBZN.jpeg" style="width: 450px">
 
 ---
 
-class: middle, slide-invert-colors
-background-image: none
-
-<img src="../images/icons/004-music-note.svg" style="
-    position: absolute;
-    top: 150px;
-    right: 100px;
-    width: 300px;
-">
-
-## .size35[`Morning Sunshine New Progression`]
-
-#### MYSEN
-
-<div style="width: 470px; margin: 50px 0;"><hr/></div>
-
-Wykonawca: <a href="https://soundcloud.com/user-396861444/morning-sunshine-new-progression-1/s-935NEIbf2O8">MYSEN</a>
-
----
-
-class: slide-fullscreen-content, slide-ruda
-background-image: url(../images/general/Primary.png)
+class: slide-thanks
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # Thanks
+
+<div style="height: 100px"></div>
+
+<div class="wrap width-60">
+
+<div class="youtube">
+    <img src="../images/icons/like.svg">
+    <p>Spodobał Ci się film? <strong>Zostaw lajka</strong></p>
+</div>
+
+<div style="height: 50px"></div>
+
+<!-- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/100513066&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe> -->
+
+<div style="height: 50px"></div>
+
+<div class="music-player">
+    <img class="note" src="../images/icons/004-music-note-yellow.svg">
+    <div class="song">
+        <h4 class="title">
+            "Morning Sunshine New Progression"
+            <a href="https://soundcloud.com/user-396861444/morning-sunshine-new-progression-1/s-935NEIbf2O8" target="_blank">
+                <img class="icon" src="../images/icons/soundcloud.svg">
+            </a>
+        </h4>
+        <p class="author">
+            Wykonawca: <a href="">MYSEN</a>
+        </p>
+    </div>
+</div>
+
+</div>

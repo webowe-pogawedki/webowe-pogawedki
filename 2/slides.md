@@ -92,19 +92,18 @@ type Data =
 ---
 
 class: color-white
-background-image: url(../images/general/Plain-Vertical.png)
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # Make my day 😂
 
-<div style="position: absolute; right: 30px; top: 140px;">
-    <img src="images/simpson.jpg" style="width: 600px">
-</div>
+<img src="images/simpson.jpg" style="width: 400px">
 
-<div style="height: 300px"></div>
+<div style="height: 50px"></div>
 
 <h2><mark>Simpsonowie w CSS</mark></h2>
 
-Źródło: <https://pattle.github.io/simpsons-in-css/>
+* <https://pattle.github.io/simpsons-in-css/>
 
 ---
 

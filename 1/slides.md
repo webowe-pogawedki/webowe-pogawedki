@@ -60,7 +60,7 @@ background-image: url(../images/general/Primary.png)
 
 <img src="images/warsawjs/Promo.png" style="width: 600px">
 
-Źródło: <https://www.facebook.com/events/1451686585009422/>
+* <https://www.facebook.com/events/1451686585009422/>
 
 ---
 
@@ -89,7 +89,7 @@ console.log(carWithoutPrice); // {color: "purple"}
 
 ]
 
-Źródło: <https://twitter.com/housecor/status/1243562849311563777>
+* <https://twitter.com/housecor/status/1243562849311563777>
 
 ---
 
@@ -104,15 +104,20 @@ console.log(carWithoutPrice); // {color: "purple"}
 ---
 
 class: color-white
-background-image: url(../images/general/Plain-Vertical.png)
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # Make my day 😂
 
 Jak można się pomylić:
 
-<img src="images/tweet-jake.jpeg">
+<img src="images/tweet-jake.jpeg" style="width: 650px">
 
-Źródło: <https://twitter.com/jaffathecake/status/1243219575845597184>
+.wrap.width-60[
+
+* <https://twitter.com/jaffathecake/status/1243219575845597184>
+
+]
 
 ---
 

@@ -77,37 +77,47 @@ class: master-center
 ---
 
 class: color-white
-background-image: url(../images/general/Plain-Vertical.png)
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # Make my day 😂
 
-<img src="images/IMG_9901.jpg" style="width: 400px">
+<img src="images/IMG_9901.jpg" style="width: 450px">
 
 ---
 
-class: middle, slide-invert-colors
-background-image: none
-
-<img src="../images/icons/004-music-note.svg" style="
-    position: absolute;
-    top: 150px;
-    right: 100px;
-    width: 300px;
-">
-
-## `Za szybami noc`
-
-#### Winyla Trzaski feat. Martyna Nosko, DJ Kaczy
-
-<https://www.youtube.com/watch?v=5_ipLg677VA>
-
-<div style="width: 470px; margin: 50px 0;"><hr/></div>
-
-Wykonawca: <a style="color: #BF04F5; border-color: #BF04F5" href="https://instagram.com/winylatrzaski">instagram.com/winylatrzaski</a>
-
----
-
-class: slide-fullscreen-content, slide-ruda
-background-image: url(../images/general/Primary.png)
+class: slide-thanks
+background-image: url(../images/general/Key_Right.png)
+background-size: contain
 
 # Thanks
+
+<div style="height: 100px"></div>
+
+<div class="wrap width-60">
+
+<div class="youtube">
+    <img src="../images/icons/like.svg">
+    <p>Spodobał Ci się film? <strong>Zostaw lajka</strong></p>
+</div>
+
+<div style="height: 80px"></div>
+
+<div class="music-player">
+    <img class="note" src="../images/icons/004-music-note-yellow.svg">
+    <div class="song">
+        <h4 class="title">
+            "Za szybami noc"
+            <a href="https://www.youtube.com/watch?v=5_ipLg677VA" target="_blank">
+                <img class="icon" src="../images/icons/youtube.svg">
+            </a>
+        </h4>
+        <p class="author">
+            <a href="https://instagram.com/winylatrzaski">
+                Winyla Trzaski feat. Martyna Nosko, DJ Kaczy
+            </a>
+        </p>
+    </div>
+</div>
+
+</div>

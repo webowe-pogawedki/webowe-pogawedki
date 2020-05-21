@@ -174,8 +174,16 @@ hr {
     overflow: hidden;
 }
 
+.wrap {
+    word-wrap: break-word;
+}
+
 .half-width {
     width: 50%;
+}
+
+.width-60 {
+    width: 60%;
 }
 
 .middle-images img {

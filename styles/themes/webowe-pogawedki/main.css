@@ -8,10 +8,6 @@
     padding: 1em 2em;
 }
 
-.remark-slide-content.vertical {
-    background-image: url('../../../images/general/Plain-Vertical.png');
-}
-
 .remark-slide-content h1 {
     margin-bottom: 0;
 }
@@ -47,8 +43,58 @@
 
 .slide-ruda h1 {
     text-align: center;
-    font-family: Ruda, sans-serif;
     font-size: 106px !important;
     font-weight: normal;
-    margin: 508px 0 0 0;;
+    margin: 508px 0 0 0;
+}
+
+.slide-thanks {
+    padding: 50px 0 0 50px;
+    color: white;
+}
+
+.slide-thanks h1 {
+    font-family: Ruda, sans-serif;
+}
+
+.slide-thanks img {
+    box-shadow: none;
+}
+
+.youtube {
+    display: flex;
+    align-items: center;
+}
+
+.youtube img {
+    width: 100px;
+    float: left;
+    margin: 0 30px 0 0;
+}
+
+.music-player {
+    display: flex;
+    align-items: center;
+}
+
+.music-player .note {
+    width: 100px;
+    margin: 0 30px 0 0;
+}
+
+.song .title {
+    margin: 0;
+}
+
+.song .title a {
+    border: 0;
+}
+
+.song .title .icon {
+    width: 32px;
+    vertical-align: middle;
+}
+
+.song .author {
+    margin: 5px 0;
 }
