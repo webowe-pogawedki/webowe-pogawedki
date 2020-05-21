@@ -8,16 +8,54 @@ background-image: url(../images/general/Primary.png)
 class: master-center
 
 <video src="../videos/podcast.mp4" controls autoplay loop></video>
+<br/>.slim[(odpisanie video)]
+
+---
+
+# Windows Terminal 1.0
+
+<img src="images/terminal-preview.png"
+    style="
+        position: absolute;
+        right: 80px;
+        top: 100px;
+        width: 400px;
+        box-shadow: none;
+    ">
+
+<div style="height: 330px"></div>
+
+* <https://devblogs.microsoft.com/commandline/windows-terminal-1-0/>
+* <https://github.com/microsoft/terminal>
 
 ---
 
 # React Native dla macOS
 
+<div style="height: 350px"></div>
+
 * <https://microsoft.github.io/react-native-windows/blog/2020/05/19/rn4mupdadates>
 
 ---
 
-# Łatwe i przyjemne Animacje CSS 🛠
+# _WarsawJS Workshop #44_
+
+<img src="images/Promo.png" style="width: 600px">
+
+Źródło: <https://www.facebook.com/events/550742222516496/>
+
+---
+
+# eslint-plugin-smells 🛠
+
+<div style="height: 250px"></div>
+
+* <https://www.youtube.com/watch?v=JVlfj7mQZPo>
+* <https://github.com/elijahmanor/eslint-plugin-smells>
+
+---
+
+# .size50[Łatwe i przyjemne Animacje CSS] 🛠
 
 <div style="height: 250px"></div>
 
@@ -25,9 +63,16 @@ class: master-center
 
 ---
 
-# Mock Interfaces, Not Internals 💡
+# Notatki początkującego frontendowca 💡
 
-* <https://www.leighhalliday.com/mock-fetch-jest>
+<div style="height: 200px"></div>
+
+* <https://github.com/kasiaizak/notatki>
+* <https://dev.kasiaizak.pl/>
+
+---
+
+# .size50[Mock Interfaces, Not Internals] 💡
 
 ```javascript
 import React from "react";
@@ -49,13 +94,17 @@ test("renders learn react link", async () => {
 });
 ```
 
+* <https://www.leighhalliday.com/mock-fetch-jest>
+
 ---
 
 # Let's talk! 🗣
 
-<div style="height: 250px"></div>
+## Twitter pozwoli pracownikom pracować w domu<br/>NA ZAWSZE
 
-* ...
+<div style="height: 200px"></div>
+
+* <https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever>
 
 ---
 
@@ -78,7 +127,7 @@ background-image: none
     width: 300px;
 ">
 
-## `Morning Sunshine New Progression`
+## .size35[`Morning Sunshine New Progression`]
 
 #### MYSEN
 
