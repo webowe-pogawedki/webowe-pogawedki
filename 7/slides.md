@@ -11,23 +11,43 @@ class: master-center
 
 ---
 
-# NEWS
+# React Native dla macOS
+
+* <https://microsoft.github.io/react-native-windows/blog/2020/05/19/rn4mupdadates>
 
 ---
 
-# Tool 🛠
+# Łatwe i przyjemne Animacje CSS 🛠
 
 <div style="height: 250px"></div>
 
-* ...
+* <https://animista.net/play/attention/shake>
 
 ---
 
-# Tip 💡
+# Mock Interfaces, Not Internals 💡
 
-<div style="height: 300px"></div>
+* <https://www.leighhalliday.com/mock-fetch-jest>
 
-* ...
+```javascript
+import React from "react";
+import { render } from "@testing-library/react";
+import App from "./App";
+
+jest.mock("./utils/currency", () => {
+  return {
+    convert: jest.fn().mockImplementation(() => {
+      return 1.42;
+    }),
+  };
+});
+
+test("renders learn react link", async () => {
+  const { findByText } = render(<App />);
+  const element = await findByText(/USD to CAD: 1.42/i);
+  expect(element).toBeInTheDocument();
+});
+```
 
 ---
 
@@ -58,15 +78,13 @@ background-image: none
     width: 300px;
 ">
 
-## `Za szybami noc`
+## `Morning Sunshine New Progression`
 
-#### Winyla Trzaski feat. Martyna Nosko, DJ Kaczy
-
-<https://www.youtube.com/watch?v=5_ipLg677VA>
+#### MYSEN
 
 <div style="width: 470px; margin: 50px 0;"><hr/></div>
 
-Wykonawca: <a style="color: #BF04F5; border-color: #BF04F5" href="https://instagram.com/winylatrzaski">instagram.com/winylatrzaski</a>
+Wykonawca: MYSEN
 
 ---
 
