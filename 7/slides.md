@@ -8,7 +8,7 @@ background-image: url(../images/general/Primary.png)
 class: master-center
 
 <video src="../videos/podcast.mp4" controls autoplay loop></video>
-<br/>.slim[(odpisanie video)]
+<br/>.slim[(odpinanie video)]
 
 ---
 
@@ -38,11 +38,11 @@ class: master-center
 
 ---
 
-# _WarsawJS Workshop #44_
+# WarsawJS Workshop #44
 
 <img src="images/Promo.png" style="width: 600px">
 
-Źródło: <https://www.facebook.com/events/550742222516496/>
+* <https://www.facebook.com/events/550742222516496/>
 
 ---
 
@@ -133,7 +133,7 @@ background-image: none
 
 <div style="width: 470px; margin: 50px 0;"><hr/></div>
 
-Wykonawca: MYSEN
+Wykonawca: <a href="https://soundcloud.com/user-396861444/morning-sunshine-new-progression-1/s-935NEIbf2O8">MYSEN</a>
 
 ---
 
