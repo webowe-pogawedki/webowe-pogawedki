@@ -1,7 +1,7 @@
 class: slide-fullscreen-content, slide-ruda
 background-image: url(../images/general/Primary.png)
 
-# Webowe Pogawędki #TODO
+# Webowe Pogawędki #8
 
 ---
 
@@ -44,48 +44,31 @@ class: master-center
 
 ---
 
-# Notatki początkującego frontendowca 💡
+# 💡 CSS Layout
+
+(from FullStak newsletter)
 
 <div style="height: 200px"></div>
 
-* <https://github.com/kasiaizak/notatki>
-* <https://dev.kasiaizak.pl/>
+* <https://csslayout.io/patterns>
 
 ---
 
-# .size50[Mock Interfaces, Not Internals] 💡
+# 💡 TODO: Tip
 
-```javascript
-import React from "react";
-import { render } from "@testing-library/react";
-import App from "./App";
+<div style="height: 200px"></div>
 
-jest.mock("./utils/currency", () => {
-  return {
-    convert: jest.fn().mockImplementation(() => {
-      return 1.42;
-    }),
-  };
-});
-
-test("renders learn react link", async () => {
-  const { findByText } = render(<App />);
-  const element = await findByText(/USD to CAD: 1.42/i);
-  expect(element).toBeInTheDocument();
-});
-```
-
-* <https://www.leighhalliday.com/mock-fetch-jest>
+* ...
 
 ---
 
 # Let's talk! 🗣
 
-## Twitter pozwoli pracownikom pracować w domu<br/>NA ZAWSZE
+## TODO: Topic
 
 <div style="height: 200px"></div>
 
-* <https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever>
+* ...
 
 ---
 
@@ -95,7 +78,7 @@ background-size: contain
 
 # Make my day 😂
 
-<img src="images/EXabA7xXgAErBZN.jpeg" style="width: 450px">
+<img src="images/TODO" style="width: 450px">
 
 ---
 
