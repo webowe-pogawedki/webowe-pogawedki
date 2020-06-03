@@ -12,11 +12,11 @@ class: master-center
 
 ---
 
-# TODO: News
+# SpaceX i NASA użyli JS
 
 <div style="height: 250px"></div>
 
-* ...
+* https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9/9446#9446
 
 ---
 
@@ -28,11 +28,11 @@ class: master-center
 
 ---
 
-# 🛠 TODO: Tools
+# 🛠 Edytor Audio w vanilla JS
 
 <div style="height: 250px"></div>
 
-* ...
+* https://github.com/pkalogiros/audiomass
 
 ---
 
@@ -54,11 +54,11 @@ class: master-center
 
 ---
 
-# 💡 TODO: Tip
+# 💡 Uważajcie na target="_blank"
 
 <div style="height: 200px"></div>
 
-* ...
+* https://www.manjuladube.dev/target-blank-security-vulnerability
 
 ---
 
@@ -78,7 +78,7 @@ background-size: contain
 
 # Make my day 😂
 
-<img src="images/TODO" style="width: 450px">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another reason why you shouldn&#39;t use jQuery 😂 <a href="https://t.co/LKwTcZoHzw">pic.twitter.com/LKwTcZoHzw</a></p>&mdash; Roy Derks (@gethackteam) <a href="https://twitter.com/gethackteam/status/1265916773062389760?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
