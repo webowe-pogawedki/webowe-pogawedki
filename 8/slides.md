@@ -14,17 +14,17 @@ class: master-center
 
 # SpaceX i NASA użyli JS
 
-<div style="height: 250px"></div>
+<div style="height: 350px"></div>
 
-* https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9/9446#9446
+* <https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9/9446#9446>
 
 ---
 
-# TODO: News
+# Proposals: Array List
 
 <div style="height: 250px"></div>
 
-* ...
+* <https://github.com/tc39/proposal-array-last>
 
 ---
 
@@ -32,15 +32,15 @@ class: master-center
 
 <div style="height: 250px"></div>
 
-* https://github.com/pkalogiros/audiomass
+* <https://github.com/pkalogiros/audiomass>
 
 ---
 
-# 🛠 TODO: Tools
+# 🛠 Vim Polyglot
 
 <div style="height: 250px"></div>
 
-* ...
+* <https://github.com/sheerun/vim-polyglot>
 
 ---
 
@@ -58,17 +58,16 @@ class: master-center
 
 <div style="height: 200px"></div>
 
-* https://www.manjuladube.dev/target-blank-security-vulnerability
+* <https://www.manjuladube.dev/target-blank-security-vulnerability>
+* <https://github.com/piecioshka/warsawjs-workshop-40-security>
 
 ---
 
 # Let's talk! 🗣
 
-## TODO: Topic
+<div style="height: 250px"></div>
 
-<div style="height: 200px"></div>
-
-* ...
+* <https://twitter.com/pifafu/status/1265773172520914944>
 
 ---
 
@@ -78,7 +77,7 @@ background-size: contain
 
 # Make my day 😂
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another reason why you shouldn&#39;t use jQuery 😂 <a href="https://t.co/LKwTcZoHzw">pic.twitter.com/LKwTcZoHzw</a></p>&mdash; Roy Derks (@gethackteam) <a href="https://twitter.com/gethackteam/status/1265916773062389760?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+* <https://twitter.com/gethackteam/status/1265916773062389760>
 
 ---
 
@@ -103,7 +102,7 @@ background-size: contain
 
 <div style="height: 50px"></div>
 
-<div class="music-player">
+<!-- <div class="music-player">
     <img class="note" src="../images/icons/004-music-note-yellow.svg">
     <div class="song">
         <h4 class="title">
@@ -116,6 +115,6 @@ background-size: contain
             Wykonawca: <a href="">MYSEN</a>
         </p>
     </div>
-</div>
+</div> -->
 
 </div>

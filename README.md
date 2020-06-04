@@ -7,4 +7,4 @@
 * #5 — <https://webowe-pogawedki.github.io/webowe-pogawedki/5/> — 2020-05-07
 * #6 — <https://webowe-pogawedki.github.io/webowe-pogawedki/6/> — 2020-05-14
 * #7 — <https://webowe-pogawedki.github.io/webowe-pogawedki/7/> — 2020-05-21
-* #8 — <https://webowe-pogawedki.github.io/webowe-pogawedki/8/> — 2020-??-??
+* #8 — <https://webowe-pogawedki.github.io/webowe-pogawedki/8/> — 2020-06-04
